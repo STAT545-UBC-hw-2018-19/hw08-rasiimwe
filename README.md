@@ -2,7 +2,7 @@
 # STAT-547M Homework 08 Repository of Rebecca Asiimwe 
 
 ## Theme: Making a shiny app
-[<img align ="right" src="" width="450" height="250"/>]()
+[<img align ="right" src="https://github.com/STAT545-UBC-students/hw08-rasiimwe/blob/master/plugin/Screen%20Shot%202018-11-17%20at%2011.07.32%20PM.png" width="450" height="250"/>](https://github.com/STAT545-UBC-students/hw08-rasiimwe/blob/master/plugin/Screen%20Shot%202018-11-17%20at%2011.07.32%20PM.png)
 ### Assignment overview 
 
 
