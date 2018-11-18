@@ -4,7 +4,7 @@
 ## Theme: Making a shiny app
 [<img align ="right" src="https://github.com/STAT545-UBC-students/hw08-rasiimwe/blob/master/plugin/Screen%20Shot%202018-11-17%20at%2011.07.32%20PM.png" width="450" height="250"/>](https://github.com/STAT545-UBC-students/hw08-rasiimwe/blob/master/plugin/Screen%20Shot%202018-11-17%20at%2011.07.32%20PM.png)
 ### Assignment overview 
-(Shiny)[https://shiny.rstudio.com] is an R package that makes it easy to build to build interactive web applications with R . Shiny is available on CRAN and can be installed using:
+[Shiny](https://shiny.rstudio.com) is an R package that makes it easy to build to build interactive web applications with R . Shiny is available on CRAN and can be installed using:
 
 ```r
 install.packages("shiny")
