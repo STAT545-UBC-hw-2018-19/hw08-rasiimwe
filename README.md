@@ -52,7 +52,7 @@ The dataset used to generate my Shiny app is available at [OpenDataBC](https://d
 |----------------|------------|
 |[Link to homework8](http://stat545.com/Classroom/assignments/hw08/hw08.html)|This file contains homework 8 tasks and their descriptions|
 |[README.md](https://github.com/STAT545-UBC-students/hw08-rasiimwe/blob/master/README.md)|This readme.md file provides an overview of the ghist of this repo and provides useful pointers to key files in my homework-8 repo. Herein, are also links to past files that provide an introduction to data exploration and analysis |
-|**[Link to the Shiny app](https://explom.shinyapps.io/BCL-app/)**|This is the link to the developed Shiny app which is the main deliverable of this assignment. The app is deployed online on [shinyapps.io](http://www.shinyapps.io)|
+|**[Link to the developed Shiny app](https://explom.shinyapps.io/BCL-app/)**|This is the link to the developed Shiny app which is the main deliverable of this assignment. The app is deployed online on [shinyapps.io](http://www.shinyapps.io)|
 |[app.R](https://github.com/STAT545-UBC-students/hw08-rasiimwe/blob/master/app/app.R)|This file contains the **source code** for the developed shiny app|
 
 ### Sources to acknowledge:
