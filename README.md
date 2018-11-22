@@ -17,6 +17,11 @@ With Shiny, we can:
 * enjoy the super fast data transfer between a browser and R
 * tap into the reactive programming model that helps us focus on the key application code without worrying about backgorund subroutines.
 
+
+The code and data are from [Dean Attali's tutorial](https://deanattali.com/blog/building-shiny-apps-tutorial). The code can specifically be found [here](https://deanattali.com/blog/building-shiny-apps-tutorial/#12-final-shiny-app-code).
+
+
+
 ### Repo Navigation:- Please visit the following files :point_down::
 
 |   **Homework Files**   | **Description** |
