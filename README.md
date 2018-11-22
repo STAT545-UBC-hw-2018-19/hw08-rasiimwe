@@ -9,7 +9,7 @@
 ```r
 install.packages("shiny")
 ```
-Shiny's awesomeness ca help us:
+Shiny's awesomeness can help us:
 * Host standalone apps on a webpage or embed them in R Markdown documents or build dashboards 
 * embed CSS themes, htmlwidgets, and JavaScript actions within Shiny apps for flexibility
 * develop highly interactive apps and output changes as users modify inputs, without requiring a reload of the browser
