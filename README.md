@@ -34,6 +34,7 @@ The developed Shiny app is a supplementary implementation to [Dean Attalis’s](
 6. Inclusion  of **tabBox() and tabpanel()** to have plots in different box tabs. 
 7. Inclusion  of **CSS defined styles** 
 8. The usage of **shinydashboard** and most of its features skins. Themes were tested using `shinythemes::themeSelector()`
+
 **Please visit the app for the implementation of more awesome features.** 
 
 
