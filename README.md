@@ -22,18 +22,18 @@ Shiny's awesomeness can help us:
 ### The Developed Shiny App
 The developed Shiny app is a supplementary implementation to [Dean Attalis’s]( https://deanattali.com/blog/building-shiny-apps-tutorial) BC Liquor [app]( https://deanattali.com/blog/building-shiny-apps-tutorial/#12-final-shiny-app-code) 
 
-**As a key deliverable for this assignment the developed Shiny app is hosted at [shinyapps.io](http://www.shinyapps.io) and can be assessed through this [link](https://explom.shinyapps.io/BCL-app/).**
+**As a key deliverable for this assignment, the developed Shiny app is hosted at [shinyapps.io](http://www.shinyapps.io) and can be assessed through this [link](https://explom.shinyapps.io/BCL-app/).**
 
 
 ### Some of the key features added to the BC Liquor app:
-1. **Image inclusion** of the BC Liquor Store. Out of preference, this was added to my dashboardSidebar.
-2. Inclussion of an **interactive table** using `DT::renderDataTable()` from the DT package. Included was also a caption, title, a table style, change in text and column header colours, a specification of pageLength e.t.c. 
-3. Inclussion of a **download** button to allow users download the results.
-4. Inclussion of a **additional plot parameters**. Here I implemented the `colourpicker` package to select plot colors
-5. Inclussion of **dropdownMenus, icons and messages**
-6. Inclusion of **tabBox() and tabpanel()** to have plots in different box tabls. 
-7. Inclusion of **CSS defined styles** 
-8. The usage of **shinydashboard** and most of it's features skins. Themes were tested using `shinythemes::themeSelector()`
+1. **Image inclusion ** of the BC Liquor Store. Out of preference, this was added to my dashboardSidebar.
+2. Inclusion  of an **interactive table** using `DT::renderDataTable()` from the DT package. Included was also a caption, title, a table style, change in text and column header colours, a specification of pageLength e.t.c. 
+3. Inclusion  of a **download** button to allow users download the results.
+4. Inclusion  of a **additional plot parameters**. Here I implemented the `colourpicker` package to select plot colors
+5. Inclusion  of **dropdownMenus, icons and messages**
+6. Inclusion  of **tabBox() and tabpanel()** to have plots in different box tabs. 
+7. Inclusion  of **CSS defined styles** 
+8. The usage of **shinydashboard** and most of its features skins. Themes were tested using `shinythemes::themeSelector()`
 **Please visit the app for the implementation of more awesome features.** 
 
 
