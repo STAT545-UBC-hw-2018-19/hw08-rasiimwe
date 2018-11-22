@@ -1,0 +1,12 @@
+name: BCL-app
+title: BCL-app
+username:
+account: explom
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 578965
+bundleId: 1714184
+url: https://explom.shinyapps.io/BCL-app/
+when: 1542850784.85259
+asMultiple: FALSE
+asStatic: FALSE
