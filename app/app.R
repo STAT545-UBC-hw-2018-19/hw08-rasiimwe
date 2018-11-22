@@ -111,12 +111,7 @@ ui <- dashboardPage(skin = "blue",
 #server end code /implementations
 server <- function(input, output) {
   
-  output$currentTime <- renderText({ #render time
-    # invalidateLater causes this output to automatically
-    # become invalidated when input$interval milliseconds
-    # have elapsed
-    #invalidateLater(as.integer(input$interval))
-    
+  output$currentTime <- renderText({ 
     format(Sys.time())
   })
   
