@@ -22,34 +22,27 @@ Shiny's awesomeness can help us:
 ### The Developed Shiny App
 The developed Shiny app is a supplementary implementation to [Dean Attalis’s]( https://deanattali.com/blog/building-shiny-apps-tutorial) BC Liquor [app]( https://deanattali.com/blog/building-shiny-apps-tutorial/#12-final-shiny-app-code) 
 
-As a key deliverable for this assignment the developed Shiny app is hosted at [shinyapps.io](http://www.shinyapps.io) and can be assessed through this [link](https://explom.shinyapps.io/BCL-app/).
+**As a key deliverable for this assignment the developed Shiny app is hosted at [shinyapps.io](http://www.shinyapps.io) and can be assessed through this [link](https://explom.shinyapps.io/BCL-app/).**
 
 
 ### Some of the key features added to the BC Liquor app:
 1. **Image inclusion** of the BC Liquor Store. Out of preference, this was added to my dashboardSidebar.
-
 2. Inclussion of an **interactive table** using `DT::renderDataTable()` from the DT package. Included was also a caption, title, a table style, change in text and column header colours, a specification of pageLength e.t.c. 
-
 3. Inclussion of a **download** button to allow users download the results.
-
 4. Inclussion of a **additional plot parameters**. Here I implemented the `colourpicker` package to select plot colors
-
 5. Inclussion of **dropdownMenus, icons and messages**
-
 6. Inclusion of **tabBox() and tabpanel()** to have plots in different box tabls. 
-
 7. Inclusion of **CSS defined styles** 
-
 8. The usage of **shinydashboard** and most of it's features skins. Themes were tested using `shinythemes::themeSelector()`
-
 **Please visit the app for the implementation of more awesome features.** 
+
 
 ### App source code:
 The code that generates my app can be found [here](https://github.com/STAT545-UBC-students/hw08-rasiimwe/blob/master/app/app.R)
 
 
 ### App dataset used:
-The dataset used to generate my Shiny app is available at [OpenDataBC](https://deanattali.com/files/bcl-data.csv")
+The dataset used to generate my Shiny app is available at [OpenDataBC](https://deanattali.com/files/bcl-data.csv)
 
 
 ### Repo Navigation:- Please visit the following main files :point_down::
@@ -63,6 +56,8 @@ The dataset used to generate my Shiny app is available at [OpenDataBC](https://d
 
 ### Sources to acknowledge:
 [STAT 547M class notes on Shiny](http://stat545.com/Classroom/notes/cm107.nb.html)
+
 [Dean Attalis’s tutorial on building Shiny apps](https://deanattali.com/blog/building-shiny-apps-tutorial)
+
 [Rstudio's documentation on Shiny dashboards](https://rstudio.github.io/shinydashboard/index.html)
 
